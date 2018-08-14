@@ -14,6 +14,8 @@ Download:
 
 datasets and place them in subfolders of the 'filesRoot' directory of your choosing. Also edit the 'filesRoot' path variable in the code to point to where you want.
 
+Also place a folder under the same 'filesRoot' folder, called 'myImags' that contain some of your own dog and/or human images.
+
 ## Usage:
 Simply launch a Jupyter Notebook and execute the .ipyjn file 
 
